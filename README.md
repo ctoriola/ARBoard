@@ -34,5 +34,3 @@ It is recommended to print the aruco marker(data/m1.pdf) on a piece of paper. Al
 python camera_calib.py 
 ```
 
-Refer to the blog for all the details about camera calibration. 
-
